@@ -1,5 +1,39 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm Gaby, an AI & Data Intern with a focus on Data Science and Machine Learning.<br><br>I'm currently pursuing a Bachelor's degree in Computer Science and have a strong passion for Artificial Intelligence, data-driven solutions, and software development. I enjoy turning data into meaningful insights and building intelligent systems through programming and machine learning.<br><br>🚀 Interests<br>- Artificial Intelligence<br>- Data Science<br>- Machine Learning<br>- Python<br>- SQL<br>- Data Analysis<br>- Statistics<br><br>I'm constantly learning new technologies, improving my technical skills, and building projects that solve real-world problems. This GitHub showcases my learning journey, personal projects, and professional growth in AI and Data Science.<br><br>Always learning. Always building.
+
+# 💫 About Me
+
+Hi there! 👋 I'm **Gaby**, an **AI & Data Intern** and a **Computer Science student** from Brazil 🇧🇷.
+
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, and using data to solve real-world problems. I love understanding how intelligent systems work, experimenting with new technologies, and turning ideas into practical projects.
+
+Currently, I'm focusing on:
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 🧠 Machine Learning
+- 🐍 Python
+- ☁️ Cloud Computing
+- 📈 Data Analysis & Visualization
+
+### 🌱 What I'm learning
+- Machine Learning & Deep Learning
+- AI Agents & LLM Applications
+- MLOps & Model Deployment
+- Data Engineering fundamentals
+- Cloud platforms (AWS & Google Cloud)
+
+### 🎯 My goals
+- Build AI solutions that create real impact.
+- Become a Machine Learning Engineer / AI Engineer.
+- Work on global projects and collaborate with international teams.
+- Keep learning something new every single day.
+
+### ⚡ Fun facts
+- 🎮 I love games and enjoy understanding how they're built.
+- 🧩 I like solving problems that make me think outside the box.
+- 📚 Most of my free time goes into learning new technologies or building side projects.
+- 🐱 I believe animals are better than humans.
+
+> *"Always curious. Always learning. Always building."* 🚀
+
 
 
 ## 🌐 Socials:
