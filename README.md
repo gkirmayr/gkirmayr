@@ -6,12 +6,12 @@ Hi there! 👋 I'm **Gaby**, an **AI & Data Intern** and a **Computer Science st
 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and using data to solve real-world problems. I love understanding how intelligent systems work, experimenting with new technologies, and turning ideas into practical projects.
 
 Currently, I'm focusing on:
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning
-- 🐍 Python
-- ☁️ Cloud Computing
-- 📈 Data Analysis & Visualization
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Python
+- Cloud Computing
+- Data Analysis & Visualization
 
 ### 🌱 What I'm learning
 - Machine Learning & Deep Learning
@@ -27,10 +27,10 @@ Currently, I'm focusing on:
 - Keep learning something new every single day.
 
 ### ⚡ Fun facts
-- 🎮 I love games and enjoy understanding how they're built.
-- 🧩 I like solving problems that make me think outside the box.
-- 📚 Most of my free time goes into learning new technologies or building side projects.
-- 🐱 I believe animals are better than humans.
+-  I love games and enjoy understanding how they're built.
+-  I like solving problems that make me think outside the box.
+-  Most of my free time goes into learning new technologies or building side projects.
+- I believe animals are better than humans.
 
 > *"Always curious. Always learning. Always building."* 🚀
 
