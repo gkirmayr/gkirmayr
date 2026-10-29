@@ -1,58 +1,129 @@
-
 # 💫 About Me
 
 Hi there! 👋 I'm **Gaby**, an **AI & Data Intern** and a **Computer Science student** from Brazil 🇧🇷.
 
-I'm passionate about **Artificial Intelligence**, **Machine Learning**, and using data to solve real-world problems. I love understanding how intelligent systems work, experimenting with new technologies, and turning ideas into practical projects.
+I'm passionate about **Artificial Intelligence, Machine Learning, and Software Engineering**. I enjoy exploring how intelligent systems work, experimenting with algorithms, and turning ideas into practical applications.
 
-Currently, I'm focusing on:
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Python
-- Cloud Computing
-- Data Analysis & Visualization
+My current interests include LLM applications, retrieval-augmented generation (RAG), AI agents, data analysis, and machine learning.
 
-### 🌱 What I'm learning
-- Machine Learning & Deep Learning
-- AI Agents & LLM Applications
-- MLOps & Model Deployment
+### 🔭 What I'm focusing on
+
+- Artificial Intelligence & Machine Learning
+- AI agents and LLM applications
+- Python and software development
+- Data analysis and visualization
+- Model evaluation and experimentation
+- Building practical, reliable AI applications
+
+### 🌱 Currently learning
+
+- Machine Learning fundamentals and model evaluation
+- Deep Learning concepts
+- AI application architecture
 - Data Engineering fundamentals
-- Cloud platforms (AWS & Google Cloud)
+- Software engineering best practices
 
 ### 🎯 My goals
-- Build AI solutions that create real impact.
-- Become a Machine Learning Engineer / AI Engineer.
-- Work on global projects and collaborate with international teams.
-- Keep learning something new every single day.
+
+- Build AI solutions that solve real-world problems.
+- Grow as an AI / Machine Learning Engineer.
+- Strengthen my software engineering and algorithmic foundations.
+- Contribute to meaningful projects and collaborate with international teams.
 
 ### ⚡ Fun facts
--  I love games and enjoy understanding how they're built.
--  I like solving problems that make me think outside the box.
--  Most of my free time goes into learning new technologies or building side projects.
-- I believe animals are better than humans.
 
-> *"Always curious. Always learning. Always building."* 🚀
+- 🎮 I love games and enjoy learning how they're built.
+- 🧠 I'm fascinated by algorithms, language, and intelligent systems.
+- 🎨 I enjoy drawing and digital art.
+- 🐈 I believe animals are better than humans. No further questions.
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gkirmayr-dev) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gkirmayr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gkirmayr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gkirmayr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gkirmayr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> *Curious by nature. Building with purpose. Learning by doing.* 🚀
 
 ---
-[![](https://komarev.com/ghpvc/?username=gkirmayr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkirmayr-dev/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkirmayr)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & Data
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2B6A66?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Development & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Databases & Platforms
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+I'm developing personal projects to deepen my understanding of AI, machine learning, data analysis, and software development.
+
+🔗 **[Explore my repositories](https://github.com/gkirmayr?tab=repositories)**
+
+### 🧠 Markov Chain Text Generator
+
+A small Python experiment exploring probabilistic text generation using word sequences and Markov chains.
+
+### 🤖 Nyx — AI Application
+
+An ongoing personal project exploring LLM applications, RAG, and AI agent workflows using Python and LangGraph.
+
+### 📊 Data Analysis Projects
+
+Exploring datasets through exploratory data analysis, data cleaning, and visualization while strengthening my data science foundations.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=gkirmayr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=gkirmayr&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=gkirmayr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=gkirmayr&style=flat-square&color=6C63FF)](https://github.com/gkirmayr)
+
